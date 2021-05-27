@@ -58,6 +58,7 @@
     "global": "lib/core/style/_global.scss",
     "size": "lib/core/style/_size.scss",
     "color": "lib/core/style/_color.scss",
+    "color-gradient": "lib/core/style/_color_gradient.scss",
     "corner": "lib/core/style/_corner.scss",
     "font": "lib/core/style/_font.scss",
     "line": "lib/core/style/_line.scss",
